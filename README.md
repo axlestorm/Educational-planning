@@ -1,5 +1,5 @@
 # Educational-planning :school:
-This project is part of subject Problem Solving in Information Technology (PSIT) <br>
+This project is a part of subject :- Problem Solving in Information Technology (PSIT) <br>
 Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL).<br><br>
 
 
